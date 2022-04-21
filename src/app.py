@@ -9,7 +9,7 @@ from flask import Flask, Response
 def create_app():
     """
     Factory function for flask application
-    :return: app object!
+    :return: app object!!
     """
     app = Flask(__name__)
 
