@@ -25,7 +25,7 @@ def create_app():
     @app.get('/api/v1.0/second')
     def second_get():
         data = {
-            'name': 'Peter',
+            'name': 'Bob',
             'age': 56
         }
 
